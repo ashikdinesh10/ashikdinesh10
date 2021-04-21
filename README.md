@@ -9,5 +9,7 @@
 
 ![Ashik's github stats](https://github-readme-stats.vercel.app/api?username=ashikdinesh10)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikdinesh10)](https://github.com/ashikdinesh10/github-readme-stats)
+
 
 
