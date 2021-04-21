@@ -7,3 +7,7 @@
 - 🔭 I’m a backend developer
 - 🌱 I’m currently learning system design and architecture
 
+![Ashik's github stats](https://github-readme-stats.vercel.app/api?username=ashikdinesh10)
+
+
+
